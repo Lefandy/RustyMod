@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>head</key>
+
+	<style name="default">
+		<frame>base_face.png</frame>
+		<folder>face</folder>
+		<visible>1</visible>
+		<zorder>head</zorder>
+		<hidelist>
+                    <item>tits_no</item>
+                </hidelist>
+		<hidelist>
+                    <item>tits_no</item>
+                </hidelist>
+	</style>
+</item>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>blush</key>
+
+	<style name="default">
+		<frame>cheek_d.png</frame>
+		<folder>face</folder>
+		<visible>1</visible>
+		<zorder>face</zorder>
+
+	</style>
+	<style name="blush_def">
+		<frame>cheek_d.png</frame>
+	</style>
+	<style name="blush_b0">
+		<frame>cheek0.png</frame>
+	</style>
+	<style name="blush_b1">
+		<frame>cheek1.png</frame>
+	</style>
+	<style name="blush_b2">
+		<frame>cheek2.png</frame>
+	</style>
+	<style name="blush_b3">
+		<frame>cheek3.png</frame>
+	</style>
+	<style name="blush_b4">
+		<frame>cheek4.png</frame>
+	</style>
+	<style name="blush_b5">
+		<frame>cheek5.png</frame>
+	</style>
+	<style name="blush_b6">
+		<frame>cheek6.png</frame>
+	</style>
+
+</item>

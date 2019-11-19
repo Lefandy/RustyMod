@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>other_wand_hand</key>
+
+	<style name="default">
+		<frame>other/other_wand_hand.png</frame>
+		<folder>clothes</folder>
+		<parent>dress</parent>
+		<zorder>dress+2</zorder>
+	</style>
+</item>

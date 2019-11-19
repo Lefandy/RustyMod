@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>standart2</key>
+
+	<style name="default">
+		<frame>shirts/standart2.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>dress</zorder>
+		<parent></parent>
+		<shift></shift>
+		<transforms></transforms>
+		<hidelist>
+                        <item>dress</item>
+		</hidelist>
+		<actions>
+
+			<action event="selfAdded">
+				<body>
+					<block></block>
+				</body>
+				<result type="removeItem">
+					<item>item_tits</item>
+				</result>
+			</action>
+
+			<action event="selfRemoved">
+				<body>
+					<block></block>
+				</body>
+				<result type="addItem">
+					<item>item_tits</item>
+				</result>
+			</action>
+
+		</actions>
+	</style>
+	<style name="with_lifted_skirt">
+		<frame>shirts/standart2_lifted.png</frame>
+		<folder>clothes</folder>
+	</style>	
+	<style name="sperm_dried">
+		<frame>shirts/standart2_sd.png</frame>
+		<folder>clothes</folder>
+	</style>
+</item>

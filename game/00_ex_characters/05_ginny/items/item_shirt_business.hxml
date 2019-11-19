@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>shirt_business</key>
+
+	<style name="default">
+		<frame>shirts/shirt_business_B.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>dress</zorder>
+		<parent></parent>
+		<shift></shift>
+		<transforms></transforms>
+		<hidelist>
+			<item>tits</item>
+                        <item>dress</item>
+		</hidelist>
+		<actions>
+
+			<action event="selfAdded">
+				<body>
+					<block></block>
+				</body>
+				<result type="removeItem">
+					<item>item_tits</item>
+				</result>
+			</action>
+
+			<action event="selfRemoved">
+				<body>
+					<block></block>
+				</body>
+				<result type="addItem">
+					<item>item_tits</item>
+				</result>
+			</action>
+
+		</actions>
+	</style>
+	<style name="closed">
+		<frame>shirts/shirt_business_A.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="with_lifted_skirt">
+		<frame>shirt_business_B_lifted.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="sperm_dried">
+		<frame>shirts/shirt_business_B_sd.png</frame>
+		<folder>clothes</folder>
+	</style>	
+</item>

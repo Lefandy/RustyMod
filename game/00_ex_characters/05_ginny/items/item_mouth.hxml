@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>mouth</key>
+
+	<style name="default">
+		<frame>mouth0.png</frame>
+		<folder>face</folder>
+		<visible>1</visible>
+		<zorder>face</zorder>
+	</style>
+	<style name="mouth_def">
+		<frame>mouth0.png</frame>
+	</style>
+	<style name="mouth_m0">
+		<frame>mouth0.png</frame>
+	</style>
+	<style name="mouth_m1">
+		<frame>mouth1.png</frame>
+	</style>
+	<style name="mouth_m2">
+		<frame>mouth2.png</frame>
+	</style>
+	<style name="mouth_m3">
+		<frame>mouth3.png</frame>
+	</style>
+	<style name="mouth_m4">
+		<frame>mouth4.png</frame>
+	</style>
+	<style name="mouth_m5">
+		<frame>mouth5.png</frame>
+	</style>
+	<style name="mouth_m6">
+		<frame>mouth6.png</frame>
+	</style>
+	<style name="mouth_m7">
+		<frame>mouth7.png</frame>
+	</style>
+	<style name="mouth_m8">
+		<frame>mouth8.png</frame>
+	</style>
+	<style name="mouth_m9">
+		<frame>mouth9.png</frame>
+	</style>
+	<style name="mouth_m10">
+		<frame>mouth10.png</frame>
+	</style>
+	<style name="mouth_m11">
+		<frame>mouth11.png</frame>
+	</style>
+	<style name="mouth_m12">
+		<frame>mouth12.png</frame>
+	</style>
+	<style name="mouth_m13">
+		<frame>mouth13.png</frame>
+	</style>
+</item>

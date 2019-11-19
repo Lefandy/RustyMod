@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<sets>
+	<set >
+		<item>item_dress</item>
+		<item>item_shirt_cheerleader</item>
+                <item>item_shirt_business</item>
+                <item>item_standart2</item>
+                <item>item_standart3</item>
+                <item>item_standart4</item>
+                <item>item_standart5</item>
+                <item>item_skimpyshirt</item>
+		<item>item_pose_up_dress</item>
+		<item>item_pose_up_shirt_cheerleader</item>
+                <item>item_pose_up_shirt_business</item>
+                <item>item_pose_up_standart2</item>
+                <item>item_pose_up_standart3</item>
+                <item>item_pose_up_standart4</item>
+                <item>item_pose_up_standart5</item>
+                <item>item_pose_up_skimpyshirt</item>
+	</set>
+</sets>

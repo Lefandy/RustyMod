@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>robe</key>
+
+	<style name="default">
+		<frame>robes/robe.png</frame>
+		<folder>clothes</folder>
+		<zorder>pose</zorder>
+	</style>
+</item>

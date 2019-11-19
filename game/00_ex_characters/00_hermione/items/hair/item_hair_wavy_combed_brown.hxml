@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>hair_wavy_combed_brown</key>
+
+	<style name="default">
+		<frame>wavy_combed/brown.png</frame>
+		<folder>hair</folder>
+		<visible>1</visible>
+		<zorder>hair_top</zorder>
+		<parent>head</parent>
+	</style>
+</item>

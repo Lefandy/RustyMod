@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>mouth</key>
+
+	<style name="default">
+		<frame>mouth_default.png</frame>
+		<folder>face</folder>
+		<visible>1</visible>
+		<zorder>face</zorder>
+	</style>
+	<style name="mouth_def">
+		<frame>mouth_default.png</frame>
+	</style>
+	<style name="mouth_dis">
+		<frame>mouth_disgust.png</frame>
+	</style>
+	<style name="mouth_emb">
+		<frame>mouth_embarassment.png</frame>
+	</style>
+	<style name="mouth_ope">
+		<frame>mouth_open.png</frame>
+	</style>
+	<style name="mouth_dcomf">
+		<frame>mouth_discomfort.png</frame>
+	</style>
+	<style name="mouth_dru">
+		<frame>mouth_drunk.png</frame>
+	</style>
+	<style name="mouth_grin">
+		<frame>mouth_grin.png</frame>
+	</style>
+	<style name="mouth_egrin">
+		<frame>mouth_grin_evil.png</frame>
+	</style>
+	<style name="mouth_gring">
+		<frame>mouth_grin_greatly.png</frame>
+	</style>
+	<style name="mouth_jaw">
+		<frame>mouth_jaw_dropped.png</frame>
+	</style>
+	<style name="mouth_opton">
+		<frame>mouth_open_tongue.png</frame>
+	</style>
+	<style name="mouth_popen">
+		<frame>mouth_partially_open.png</frame>
+	</style>
+	<style name="mouth_pout">
+		<frame>mouth_pout.png</frame>
+	</style>
+	<style name="mouth_poutg">
+		<frame>mouth_pout_greatly.png</frame>
+	</style>
+	<style name="mouth_rav">
+		<frame>mouth_ravaging.png</frame>
+	</style>
+	<style name="mouth_sad">
+		<frame>mouth_sad_sob.png</frame>
+	</style>
+	<style name="mouth_wid">
+		<frame>mouth_wide.png</frame>
+	</style>
+	<style name="mouth_widt">
+		<frame>mouth_wide_tongue.png</frame>
+	</style>
+</item>

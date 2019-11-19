@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>mouth</key>
+
+	<style name="default">
+		<frame>daphne_mouth_neutral.png</frame>
+		<folder>face</folder>
+		<visible>1</visible>
+		<zorder>face</zorder>
+	</style>
+	<style name="mouth_def">
+		<frame>daphne_mouth_neutral.png</frame>
+	</style>
+	<style name="mouth_neu">
+		<frame>daphne_mouth_neutral_ZS.png</frame>
+	</style>
+	<style name="mouth_smi">
+		<frame>daphne_mouth_smile.png</frame>
+	</style>
+	<style name="mouth_ang">
+		<frame>daphne_mouth_angry.png</frame>
+	</style>
+	<style name="mouth_pur">
+		<frame>daphne_mouth_pursed.png</frame>
+	</style>
+	<style name="mouth_pri">
+		<frame>daphne_mouth_prim_ZS.png</frame>
+	</style>
+	<style name="mouth_pou">
+		<frame>daphne_mouth_pout.png</frame>
+	</style>
+	<style name="mouth_ope">
+		<frame>daphne_mouth_open.png</frame>
+	</style>
+	<style name="mouth_halfz">
+		<frame>daphne_mouth_halfopen_Z.png</frame>
+	</style>
+	<style name="mouth_opT">
+		<frame>daphne_mouth_opentongue.png</frame>
+	</style>
+	<style name="mouth_dis">
+		<frame>daphne_mouth_disgust.png</frame>
+	</style>
+	<style name="mouth_disz">
+		<frame>daphne_mouth_disgust_Z.png</frame>
+	</style>
+	<style name="mouth_ehh">
+		<frame>daphne_mouth_ehh.png</frame>
+	</style>
+	<style name="mouth_smo">
+		<frame>daphne_mouth_smileopen_ZS.png</frame>
+	</style>
+	<style name="mouth_gri">
+		<frame>daphne_mouth_grin.png</frame>
+	</style>	
+	<style name="mouth_wo">
+		<frame>daphne_mouth_wo.png</frame>
+	</style>
+	<style name="mouth_woT">
+		<frame>daphne_mouth_wotongue.png</frame>
+	</style>
+	<style name="mouth_test">
+		<frame>test.png</frame>
+	</style>
+	
+</item>

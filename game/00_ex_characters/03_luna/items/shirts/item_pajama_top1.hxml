@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>pajama_top1</key>
+
+	<style name="default">
+		<frame>shirts/pajama_top1.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>dress</zorder>
+		<parent></parent>
+		<shift></shift>
+		<transforms></transforms>
+	</style>
+</item>

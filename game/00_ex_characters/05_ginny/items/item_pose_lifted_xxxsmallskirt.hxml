@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>pose</key>
+
+	<style name="default">
+		<frame>pose_lifted_xxxsmallskirt.png</frame>
+		<folder>pose</folder>
+		<visible>1</visible>
+		<zorder>pose</zorder>
+		<hidelist>
+			<item>hands</item>
+			<item>skirt</item>
+		</hidelist>
+		<actions>
+			<action event="selfAdded">
+				<body>
+					<block></block>
+				</body>
+				<result type="setStyle">
+					<set>hermione_set_all_shirts</set>
+					<name>with_lifted_skirt</name>
+				</result>
+			</action>
+
+			<action event="selfRemoved">
+				<body>
+					<block></block>
+				</body>
+				<result type="setStyle">
+					<set>hermione_set_all_shirts</set>
+					<name>default</name>
+				</result>
+			</action>
+			
+		</actions>
+	</style>
+</item>

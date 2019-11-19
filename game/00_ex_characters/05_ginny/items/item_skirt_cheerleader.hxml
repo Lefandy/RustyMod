@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>skirt_cheerleader</key>
+
+	<style name="default">
+		<frame>skirts/skirt_cheerleader.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>skirt</zorder>
+		<hidelist>
+			<item>skirt</item>
+			<item>panties</item>
+		</hidelist>
+	</style>	
+	<style name="sperm_dried">
+		<frame>skirts/skirt_cheerleader_sd.png</frame>
+		<folder>clothes</folder>
+	</style>
+</item>

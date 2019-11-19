@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>pose</key>
+
+	<style name="default">
+		<frame>black_latex.png</frame>
+		<folder>pose</folder>
+		<zorder>headwear + 1</zorder>
+		<hidelist>
+                    <item>tits</item>
+                </hidelist>
+	</style>
+</item>

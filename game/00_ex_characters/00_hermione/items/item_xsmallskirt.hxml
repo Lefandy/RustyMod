@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>xsmallskirt</key>
+
+	<style name="default">
+		<frame>skirts/xsmallskirt.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>skirt</zorder>
+		<hidelist>
+			<item>skirt</item>
+		</hidelist>
+	</style>
+	<style name="sperm_dried">
+		<frame>skirts/xsmallskirt_sd.png</frame>
+		<folder>clothes</folder>
+	</style>	
+</item>

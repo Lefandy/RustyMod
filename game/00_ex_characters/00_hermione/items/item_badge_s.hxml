@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>badge_s</key>
+
+	<style name="default">
+		<frame>badge_s.png</frame>
+		<folder>clothes</folder>
+		<parent>dress</parent>
+		<zorder>dress+1</zorder>
+	</style>
+</item>

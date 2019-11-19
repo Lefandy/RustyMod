@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<sets>
+	<set >
+		<item>item_skirt</item>
+                <item>item_shortskirt</item>
+                <item>item_xshortskirt</item>
+                <item>item_xxshortskirt</item>
+                <item>item_xsmallskirt</item>
+                <item>item_xxsmallskirt</item>
+                <item>item_xxxsmallskirt</item>
+                <item>item_skirt_business</item>
+                <item>item_skirt_cheerleader</item>
+		<item>item_pose_lifted_shortskirt</item>
+                <item>item_pose_lifted_skirt</item>
+                <item>item_pose_lifted_skirt_business</item>
+                <item>item_pose_lifted_skirt_cheerleader</item>
+                <item>item_pose_lifted_xshortskirt</item>
+                <item>item_pose_lifted_xsmallskirt</item>
+                <item>item_pose_lifted_xxshortskirt</item>
+                <item>item_pose_lifted_xxsmallskirt</item>
+                <item>item_pose_lifted_xxxsmallskirt</item>
+	</set>
+</sets>

@@ -1,0 +1,13 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/test.rpy", line 20: end of line expected.
+    add "00_ex_characters/05_ginny/graphics/dialog/ginny_dialog_base.png" xpos 360 ypos 210
+                                                                          ^
+
+File "game/test.rpy", line 21: expected statement.
+    zorder 3
+           ^
+
+Ren'Py Version: Ren'Py 6.18.3.761

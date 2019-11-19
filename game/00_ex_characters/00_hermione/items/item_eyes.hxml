@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>eyes</key>
+
+	<style name="default">
+		<frame>eye5.png</frame>
+		<folder>face</folder>
+		<visible>1</visible>
+		<zorder>hair-1</zorder>
+		<parent>head</parent>
+	</style>
+	<style name="eyes_def">
+		<frame>eye5.png</frame>
+	</style>
+	<style name="eyes_e0">
+		<frame>eye0.png</frame>
+	</style>
+	<style name="eyes_e1">
+		<frame>eye1.png</frame>
+	</style>
+	<style name="eyes_e2">
+		<frame>eye2.png</frame>
+	</style>
+	<style name="eyes_e3">
+		<frame>eye3.png</frame>
+	</style>
+	<style name="eyes_e4">
+		<frame>eye4.png</frame>
+	</style>
+	<style name="eyes_e5">
+		<frame>eye5.png</frame>
+	</style>
+	<style name="eyes_e6">
+		<frame>eye6.png</frame>
+	</style>
+	<style name="eyes_e7">
+		<frame>eye7.png</frame>
+	</style>
+	<style name="eyes_e8">
+		<frame>eye8.png</frame>
+	</style>
+	<style name="eyes_e9">
+		<frame>eye9.png</frame>
+	</style>
+	<style name="eyes_e10">
+		<frame>eye10.png</frame>
+	</style>
+	<style name="eyes_e11">
+		<frame>eye11.png</frame>
+	</style>
+	<style name="eyes_e12">
+		<frame>eye12.png</frame>
+	</style>
+	<style name="eyes_e13">
+		<frame>eye13.png</frame>
+	</style>
+	<style name="eyes_e14">
+		<frame>eye14.png</frame>
+	</style>
+	<style name="eyes_e15">
+		<frame>eye15.png</frame>
+	</style>
+	<style name="eyes_e16">
+		<frame>eye16.png</frame>
+	</style>
+	<style name="eyes_e17">
+		<frame>eye17.png</frame>
+	</style>
+	<style name="eyes_e18">
+		<frame>eye18.png</frame>
+	</style>
+	
+</item>

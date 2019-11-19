@@ -1,0 +1,27 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/test.rpy", line 19, in script
+    with Dissolve(.3)
+IOError: [Errno 9] Bad file descriptor
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "C:\Users\дом\Desktop\Новая папка\oh\renpy-6.18.3-sdk(da)\renpy\bootstrap.py", line 289, in bootstrap
+    renpy.main.main()
+  File "C:\Users\дом\Desktop\Новая папка\oh\renpy-6.18.3-sdk(da)\renpy\main.py", line 357, in main
+    run(restart)
+  File "C:\Users\дом\Desktop\Новая папка\oh\renpy-6.18.3-sdk(da)\renpy\main.py", line 77, in run
+    renpy.execution.run_context(True)
+  File "C:\Users\дом\Desktop\Новая папка\oh\renpy-6.18.3-sdk(da)\renpy\execution.py", line 598, in run_context
+    context.run()
+  File "game/test.rpy", line 19, in script
+    with Dissolve(.3)
+  File "C:\Users\дом\Desktop\Новая папка\oh\renpy-6.18.3-sdk(da)\renpy\error.py", line 197, in report_exception
+    sys.stdout.write(full.getvalue())
+IOError: [Errno 9] Bad file descriptor
+
+Windows-post2008Server-6.2.9200
+Ren'Py 6.18.3.761
+Witch Trainer 1.6f
